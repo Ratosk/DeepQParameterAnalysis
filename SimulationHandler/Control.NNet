@@ -1,0 +1,30 @@
+layer_defs.push({
+    type: 'fc',
+    num_neurons: 300,
+    activation: 'relu'
+});
+layer_defs.push({
+    type: 'fc',
+    num_neurons: 300,
+    activation: 'relu'
+});
+layer_defs.push({
+    type: 'fc',
+    num_neurons: 300,
+    activation: 'relu'
+});
+layer_defs.push({
+    type: 'fc',
+    num_neurons: 300,
+    activation: 'relu'
+});
+layer_defs.push({
+    type: 'fc',
+    num_neurons: 300,
+    activation: 'relu'
+});
+layer_defs.push({
+    type: 'fc',
+    num_neurons: 300,
+    activation: 'relu'
+});

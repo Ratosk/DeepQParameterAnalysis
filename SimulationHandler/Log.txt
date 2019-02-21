@@ -1,0 +1,627 @@
+Starting Training for all nets: 1 / 3
+Starting training with Experience size of: 500
+Running Experiment for Net: InvPyramid , InputType: Control
+Running Experiment for Net: InvPyramid , InputType: Behind
+Running Experiment for Net: InvPyramid , InputType: Box
+Running Experiment for Net: InvPyramid , InputType: Front
+Running Experiment for Net: InvPyramid , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Training Finished!
+Training Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Started!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Evaluation Finished!
+Evaluation Finished!
+Evaluation Finished!
+Running Experiment for Net: Cardinal , InputType: Control
+Running Experiment for Net: Cardinal , InputType: Behind
+Running Experiment for Net: Cardinal , InputType: Box
+Running Experiment for Net: Cardinal , InputType: Front
+Running Experiment for Net: Cardinal , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Training Finished!
+Training Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Started!
+Evaluation Started!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Evaluation Finished!
+Evaluation Finished!
+Evaluation Finished!
+Running Experiment for Net: Quadrants , InputType: Control
+Running Experiment for Net: Quadrants , InputType: Behind
+Running Experiment for Net: Quadrants , InputType: Box
+Running Experiment for Net: Quadrants , InputType: Front
+Running Experiment for Net: Quadrants , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Training Finished!
+Training Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Started!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Evaluation Finished!
+Evaluation Finished!
+Evaluation Finished!
+Running Experiment for Net: Pyramid , InputType: Control
+Running Experiment for Net: Pyramid , InputType: Behind
+Running Experiment for Net: Pyramid , InputType: Box
+Running Experiment for Net: Pyramid , InputType: Front
+Running Experiment for Net: Pyramid , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Training Finished!
+Training Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Started!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Evaluation Finished!
+Evaluation Finished!
+Evaluation Finished!
+Finishing Training for all nets: 1 / 3
+Starting training with Experience size of: 1000
+Running Experiment for Net: InvPyramid , InputType: Control
+Running Experiment for Net: InvPyramid , InputType: Behind
+Running Experiment for Net: InvPyramid , InputType: Box
+Running Experiment for Net: InvPyramid , InputType: Front
+Running Experiment for Net: InvPyramid , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Running Experiment for Net: Cardinal , InputType: Control
+Running Experiment for Net: Cardinal , InputType: Behind
+Running Experiment for Net: Cardinal , InputType: Box
+Running Experiment for Net: Cardinal , InputType: Front
+Running Experiment for Net: Cardinal , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Running Experiment for Net: Quadrants , InputType: Control
+Running Experiment for Net: Quadrants , InputType: Behind
+Running Experiment for Net: Quadrants , InputType: Box
+Running Experiment for Net: Quadrants , InputType: Front
+Running Experiment for Net: Quadrants , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Training completed in: 1 Minutes
+Starting data recollection...
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Running Experiment for Net: Pyramid , InputType: Control
+Running Experiment for Net: Pyramid , InputType: Behind
+Running Experiment for Net: Pyramid , InputType: Box
+Running Experiment for Net: Pyramid , InputType: Front
+Running Experiment for Net: Pyramid , InputType: Sides
+Training completed in: 1 Minutes
+Training completed in: 1 Minutes
+Starting data recollection...
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Finishing Training for all nets: 1 / 3
+Starting training with Experience size of: 1500
+Running Experiment for Net: InvPyramid , InputType: Control
+Running Experiment for Net: InvPyramid , InputType: Behind
+Running Experiment for Net: InvPyramid , InputType: Box
+Running Experiment for Net: InvPyramid , InputType: Front
+Running Experiment for Net: InvPyramid , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Running Experiment for Net: Cardinal , InputType: Control
+Running Experiment for Net: Cardinal , InputType: Behind
+Running Experiment for Net: Cardinal , InputType: Box
+Running Experiment for Net: Cardinal , InputType: Front
+Running Experiment for Net: Cardinal , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Running Experiment for Net: Quadrants , InputType: Control
+Running Experiment for Net: Quadrants , InputType: Behind
+Running Experiment for Net: Quadrants , InputType: Box
+Running Experiment for Net: Quadrants , InputType: Front
+Running Experiment for Net: Quadrants , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Running Experiment for Net: Pyramid , InputType: Control
+Running Experiment for Net: Pyramid , InputType: Behind
+Running Experiment for Net: Pyramid , InputType: Box
+Running Experiment for Net: Pyramid , InputType: Front
+Running Experiment for Net: Pyramid , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Finishing Training for all nets: 1 / 3
+Starting training with Experience size of: 2000
+Running Experiment for Net: InvPyramid , InputType: Control
+Running Experiment for Net: InvPyramid , InputType: Behind
+Running Experiment for Net: InvPyramid , InputType: Box
+Running Experiment for Net: InvPyramid , InputType: Front
+Running Experiment for Net: InvPyramid , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Running Experiment for Net: Cardinal , InputType: Control
+Running Experiment for Net: Cardinal , InputType: Behind
+Running Experiment for Net: Cardinal , InputType: Box
+Running Experiment for Net: Cardinal , InputType: Front
+Running Experiment for Net: Cardinal , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Running Experiment for Net: Quadrants , InputType: Control
+Running Experiment for Net: Quadrants , InputType: Behind
+Running Experiment for Net: Quadrants , InputType: Box
+Running Experiment for Net: Quadrants , InputType: Front
+Running Experiment for Net: Quadrants , InputType: Sides
+Training completed in: 1 Minutes
+Training completed in: 1 Minutes
+Starting data recollection...
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Running Experiment for Net: Pyramid , InputType: Control
+Running Experiment for Net: Pyramid , InputType: Behind
+Running Experiment for Net: Pyramid , InputType: Box
+Running Experiment for Net: Pyramid , InputType: Front
+Running Experiment for Net: Pyramid , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Finishing Training for all nets: 1 / 3
+Starting training with Experience size of: 2500
+Running Experiment for Net: InvPyramid , InputType: Control
+Running Experiment for Net: InvPyramid , InputType: Behind
+Running Experiment for Net: InvPyramid , InputType: Box
+Running Experiment for Net: InvPyramid , InputType: Front
+Running Experiment for Net: InvPyramid , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Running Experiment for Net: Cardinal , InputType: Control
+Running Experiment for Net: Cardinal , InputType: Behind
+Running Experiment for Net: Cardinal , InputType: Box
+Running Experiment for Net: Cardinal , InputType: Front
+Running Experiment for Net: Cardinal , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Running Experiment for Net: Quadrants , InputType: Control
+Running Experiment for Net: Quadrants , InputType: Behind
+Running Experiment for Net: Quadrants , InputType: Box
+Running Experiment for Net: Quadrants , InputType: Front
+Running Experiment for Net: Quadrants , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Running Experiment for Net: Pyramid , InputType: Control
+Running Experiment for Net: Pyramid , InputType: Behind
+Running Experiment for Net: Pyramid , InputType: Box
+Running Experiment for Net: Pyramid , InputType: Front
+Running Experiment for Net: Pyramid , InputType: Sides
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Evaluation Finished!
+Training Finished!
+Evaluation Started!
+Evaluation Finished!
+Finishing Training for all nets: 1 / 3
+Starting training with Experience size of: 3000
+Running Experiment for Net: InvPyramid , InputType: Control
+Running Experiment for Net: InvPyramid , InputType: Behind
+Running Experiment for Net: InvPyramid , InputType: Box
+Running Experiment for Net: InvPyramid , InputType: Front
+Running Experiment for Net: InvPyramid , InputType: Sides
+Training completed in: 1 Minutes
+Training completed in: 1 Minutes
+Starting data recollection...
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
+Training completed in: 1 Minutes
+Starting data recollection...
